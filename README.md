@@ -5,10 +5,6 @@
 
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-%230077B5.svg?style=for-the-badge&logo=web&logoColor=white)](https://dapper-donut-087231.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kevinjah1975@gmail.com)
-
-</br>
 
 ## 👨‍💻 Sobre mí:
 
